@@ -1,0 +1,191 @@
+.Main{
+    position: absolute;
+    top: 111px;
+    right: 18.75%;
+    width:1200px;
+    height:780px;
+    background:rgba(255,255,255,1);
+    border-radius:8px;
+}
+.Main-Head{
+    width:1200px;
+    height:220px;
+    background:rgba(36,157,253,1);
+    border-radius:8px;
+    position: absolute;
+}
+.Main-Head-logo{
+    position: absolute;
+    top: 12px;
+    right: 44.67%;
+    width: 128px;
+    height: 98px;
+}
+.Main-Head-name{
+    position: absolute;
+    top: 116px;
+    right: 43.08%;
+    width:165px;
+    height:45px;
+    font-size:32px;
+    font-weight:500;
+    color:rgba(255,255,255,1);
+    line-height:45px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.Main-Head-welcome{
+    position: absolute;
+    top: 165px;
+    width:1200px;
+    height:33px;
+    font-size:24px;
+    font-weight:500;
+    color:rgba(255,255,255,1);
+    line-height:33px;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+}
+.Main-CreateTicket{
+    position: absolute;
+    top: 355px;
+    left: 6.83%;
+    width:300px;
+    height:220px;
+    background:rgba(245,245,245,1);
+    border-radius:10px;
+    cursor: pointer;
+    border: none;
+}
+.Main-CreateTicket-img{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    width: 100px;
+    height: 80px;
+    
+
+}
+.Main-CreateTicket-name{
+    position: absolute;
+    top: 143px;
+    left: 23.46%;
+    width:200px;
+    height:28px;
+    font-size:20px;
+    font-weight:500;
+    color:rgba(36,157,253,1);
+    line-height:28px;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: left;
+}
+
+.Main-MyTicket{
+    position: absolute;
+    top: 355px;
+    left: 37.17%;
+    width:300px;
+    height:220px;
+    background:rgba(245,245,245,1);
+    border-radius:10px;
+    cursor: pointer;
+    border: none;
+}
+.Main-MyTicket-img{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    width: 100px;
+    height: 80px;
+
+}
+.Main-MyTicket-name{
+    position: absolute;
+    top: 143px;
+    left: 30.77%;
+    width:200px;
+    height:28px;
+    font-size:20px;
+    font-weight:500;
+    color:rgba(36,157,253,1);
+    line-height:28px;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: left;
+}
+
+.Main-MyAccount{
+    position: absolute;
+    top: 355px;
+    left: 67.5%;
+    width:300px;
+    height:220px;
+    background:rgba(245,245,245,1);
+    border-radius:10px;
+    cursor: pointer;
+    border: none;
+}
+.Main-MyAccount-img{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    width: 100px;
+    height: 80px;
+
+}
+.Main-MyAccount-name{
+    position: absolute;
+    top: 143px;
+    left: 26.92%;
+    width:200px;
+    height:28px;
+    font-size:20px;
+    font-weight:500;
+    color:rgba(36,157,253,1);
+    line-height:28px;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: left;
+}
+
+.Main-Logout{
+    position: absolute;
+    top: 665px;
+    left: 10.83%;
+    width:940px;
+    height:80px;
+    background:rgba(245,245,245,1);
+    border-radius:10px;
+    cursor: pointer;
+    border: none;
+}
+.Main-Logout-img{
+    position: absolute;
+    top: 25px;
+    left: 43.09%;
+    width: 39px;
+    height: 31px;
+
+}
+.Main-Logout-name{
+    position: absolute;
+    top: 26px;
+    left: 49.47%;
+    width:71px;
+    height:28px;
+    font-size:20px;
+    font-weight:500;
+    color:rgba(36,157,253,1);
+    line-height:28px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.Mains .el-dialog{
+    width: 420px;
+    height: 140px;
+}
+.Mains .el-dialog__body{
+    padding: 0;
+    text-align: left;
+    margin-left: 20px;
+}
+.Mains .el-dialog__header{
+    text-align: left;
+}

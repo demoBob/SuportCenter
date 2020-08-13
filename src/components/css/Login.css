@@ -1,0 +1,236 @@
+.login{
+    width:1200px;
+    height:780px;
+    background:rgba(255,255,255,1);
+    border-radius:8px;
+    position: absolute;
+    top: 110px;
+    right: 18.75%;
+}
+.login-left{
+    width:480px;
+    height:780px;
+    background:rgba(36,157,253,1);
+    border-radius:8px 0px 0px 8px;
+    position: absolute;
+}
+.login-logo{
+  position: absolute;
+  top: 8.7%;
+  left:29.79%;
+  width: 194px;
+  height: 148px;
+
+}
+.login-welcome{
+  position: absolute;
+  top: 29.32%;
+  left:36.66%;
+  width:27.71%;
+  height:4.55%;
+  font-size:28px;
+  font-weight:600;
+  color:rgba(255,255,255,1);
+  line-height:40px;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+.login-hi{
+  position: absolute;
+  top: 36.55%;
+  left:13.96%;
+  width:400px;
+  height:2.5%;
+  font-size:14px;     
+  font-weight:400;
+  color:rgba(255,255,255,1);
+  line-height:2.5%;
+  font-family: 'Noto Sans TC', sans-serif;
+  text-align: left;
+}
+.login-mian1{
+  position: absolute;
+  top: 45.91%;
+  left:38.125%;
+  width:3.75%;
+  height:2.05%;
+  background:rgba(255,255,255,1);
+  border-radius:100%; 
+}
+.login-mian2{
+  position: absolute;
+  top: 59.77%;
+  left:38.125%;
+  width:3.75%;
+  height:2.05%;
+  background:rgba(255,255,255,1);
+  border-radius:100%; 
+}
+.login-mian3{
+  position: absolute;
+  top: 73.64%;
+  left:38.125%;
+  width:3.75%;
+  height:2.05%;
+  background:rgba(255,255,255,1);
+  border-radius:100%; 
+}
+.login-caseinfo{
+  position: absolute;
+  top: 46.68%;
+  left:44.375%;
+  width:200px;
+  height:2.5%;
+  font-size:14px;      
+  font-weight:400;
+  color:rgba(255,255,255,1);
+  line-height:2.5%;
+  font-family: 'Noto Sans TC', sans-serif;
+  text-align: left;
+}
+.login-contactinfo{
+  position: absolute;
+  top: 60.55%;
+  left:44.375%;
+  width:250px;
+  height:2.5%;
+  font-size:14px;     
+  font-weight:400;
+  color:rgba(255,255,255,1);
+  line-height:2.5%;
+  font-family: 'Noto Sans TC', sans-serif;
+  text-align: left;
+}
+.login-submit{
+  position: absolute;
+  top: 74.41%;
+  left:44.375%;
+  width:250px;
+  height:2.5%;
+  font-size:14px;
+  font-weight:400;
+  color:rgba(255,255,255,1);
+  line-height:2.5%;
+  font-family: 'Noto Sans TC', sans-serif;
+  text-align: left;
+}
+.login-br{
+  position: absolute;
+  top: 48.3%;
+  left:39.6%;
+  width:0.83%;
+  height:11.14%;
+  background:rgba(255,255,255,1);
+  border-radius:2px;
+}
+.login-br2{
+  position: absolute;
+  top: 62.16%;
+  left:39.6%;
+  width:0.83%;
+  height:11.14%;
+  background:rgba(255,255,255,1);
+  border-radius:2px;
+}
+
+.login-Login{
+  position: absolute;
+  top: 9.09%;
+  right: 46.7%;
+  width:7.08%;
+  height:4.77%;
+  font-size:30px;
+  font-weight:600;
+  color:rgba(36,157,253,1);
+  line-height:4.77%;
+  letter-spacing:1px;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+.login-username{
+  position: absolute;
+  top: 16.14%;
+  right: 47.08%;
+  width:6.25%;
+  height:2.73%;
+  font-size:16px; 
+  font-weight:400;     
+  color:rgba(36,157,253,1);
+  line-height:2.73%;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+.login-username-text{
+  position: absolute;
+  top: 18.75%;
+  right: 6.66%;
+  width: 46.67%;
+  height: 5.23%;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid #D8D8D8;
+  font-size:16px;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  font-family: 'Noto Sans TC', sans-serif;
+  padding-left: 12px;
+}
+.login ::-webkit-input-placeholder{
+  font-size:16px;      
+  color:rgba(0,0,0,0.25);
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.login-password{
+  position: absolute;
+  top: 27.5%;
+  right: 47.08%;
+  width:6.25%;
+  height:2.73%;
+  font-size:16px;
+  font-weight:400;     
+  color:rgba(36,157,253,1);
+  line-height:2.73%;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+.login-password-text{
+  position: absolute;
+  top: 30.11%;
+  right: 6.66%;
+  width: 46.67%;
+  height: 5.23%;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid #D8D8D8;
+  font-size:16px;
+  font-weight:normal;
+  color:rgba(51,51,51,1);
+
+  padding-left: 12px;
+}
+.login-forgetpassword{       
+    position: absolute;
+    top: 300px;
+    left: 560px;
+    width:400px;
+    height:22px;
+    font-size:14px;
+    font-weight:400;        
+    line-height:22px;
+    color:rgba(51,51,51,1);
+    text-align: left;
+    font-family: 'Noto Sans TC', sans-serif;
+    cursor: pointer;
+}
+.login-loginbutton{
+  position: absolute;
+  top: 68.64%;
+  right: 6.66%;
+  width: 560px;
+  height: 46px;
+  background:rgba(36,157,253,1);
+  border-radius:4px;
+  font-size:16px;
+  font-weight:400;
+  color:rgba(255,255,255,1);     
+  font-family: 'Noto Sans TC', sans-serif;
+}
